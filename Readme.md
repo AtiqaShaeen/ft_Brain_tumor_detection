@@ -561,15 +561,6 @@ The number (v1, v2, etc.) increments with each completed training
 - **Secure Aggregation:** Encrypt updates before sending
 - **Homomorphic Encryption:** Compute on encrypted data
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## 📝 License
 
@@ -577,9 +568,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+Your Name - Atiqa Shaheen - shaheenatiqa960@gmial.com
 
-Project Link: [https://github.com/yourusername/federated-brain-tumor](https://github.com/yourusername/federated-brain-tumor)
+Project Link: [https://github.com/AtiqaShaeen/ft_Brain_tumor_detection](https://github.com/AtiqaShaeen/ft_Brain_tumor_detection)
 
 ## 🙏 Acknowledgments
 
